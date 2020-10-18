@@ -1,0 +1,214 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #282828;
+}
+
+img {
+    width: 722px;
+    height: 520px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 183px;
+    /* margin-left: 400px; */
+    z-index: 1;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 5px;
+    width: 400px;
+    text-align: center;
+}
+
+.box {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: #000000;
+    border: 2px solid #ffffff;
+}
+
+.show-red-color {
+    background-color: red;
+}
+
+.box-1 {
+    left: 486px;
+    bottom: 551px;
+}
+
+.box-2 {
+    left: 486px;
+    bottom: 447px;
+}
+
+.box-3 {
+    left: 486px;
+    bottom: 343px;
+}
+
+.box-4 {
+    left: 486px;
+    bottom: 239px;
+}
+
+.box-5 {
+    left: 486px;
+    bottom: 135px;
+}
+
+.box-6 {
+    left: 590px;
+    bottom: 551px;
+}
+
+.box-7 {
+    left: 590px;
+    bottom: 447px;
+}
+
+.box-8 {
+    left: 590px;
+    bottom: 343px;
+}
+
+.box-9 {
+    left: 590px;
+    bottom: 239px;
+}
+
+.box-10 {
+    left: 590px;
+    bottom: 135px;
+}
+
+.box-11 {
+    left: 694px;
+    bottom: 551px;
+}
+
+.box-12 {
+    left: 694px;
+    bottom: 447px;
+}
+
+.box-13 {
+    left: 694px;
+    bottom: 343px;
+}
+
+.box-14 {
+    left: 694px;
+    bottom: 239px;
+}
+
+.box-15 {
+    left: 694px;
+    bottom: 135px;
+}
+
+.box-16 {
+    left: 798px;
+    bottom: 551px;
+}
+
+.box-17 {
+    left: 798px;
+    bottom: 447px;
+}
+
+.box-18 {
+    left: 798px;
+    bottom: 343px;
+}
+
+.box-19 {
+    left: 798px;
+    bottom: 239px;
+}
+
+.box-20 {
+    left: 798px;
+    bottom: 135px;
+}
+
+.box-21 {
+    left: 902px;
+    bottom: 551px;
+}
+
+.box-22 {
+    left: 902px;
+    bottom: 447px;
+}
+
+.box-23 {
+    left: 902px;
+    bottom: 343px;
+}
+
+.box-24 {
+    left: 902px;
+    bottom: 239px;
+}
+
+.box-25 {
+    left: 902px;
+    bottom: 135px;
+}
+
+.box-26 {
+    left: 1006px;
+    bottom: 551px;
+}
+
+.box-27 {
+    left: 1006px;
+    bottom: 447px;
+}
+
+.box-28 {
+    left: 1006px;
+    bottom: 343px;
+}
+
+.box-29 {
+    left: 1006px;
+    bottom: 239px;
+}
+
+.box-30 {
+    left: 1006px;
+    bottom: 135px;
+}
+
+.box-31 {
+    left: 1110px;
+    bottom: 551px;
+}
+
+.box-32 {
+    left: 1110px;
+    bottom: 447px;
+}
+
+.box-33 {
+    left: 1110px;
+    bottom: 343px;
+}
+
+.box-34 {
+    left: 1110px;
+    bottom: 239px;
+}
+
+.box-35 {
+    left: 1110px;
+    bottom: 135px;
+}
